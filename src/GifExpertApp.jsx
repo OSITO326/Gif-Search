@@ -1,4 +1,3 @@
-// 019
 import { useState } from 'react';
 import { AddCategory, GifGrid } from './components';
 
